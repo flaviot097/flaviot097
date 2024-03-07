@@ -2,11 +2,13 @@
 <h1 aling="center" > Hola,Soy Flavio Trocello 👋</h1 >
 </div>
 <img sec="https://i.pinimg.com/236x/7b/23/95/7b239546b69a9ff73611806dcdbe80f7.jpg">
+<br>
 ## Sobre mi
 - 💻 Desarrollador front-end.
 - 🖥Desarrollador Back-end.
 - 👨🏻‍💻 Diseñador web.
 - 🌐 API.
+  <br>
 ## Proyectos
 <div aling="center" >
   <table>
