@@ -13,7 +13,7 @@
 <div aling="center" >
   <table>
 <tr>
-<td width="50%">
+<td width="">
 <h3 align="center">Pagina de web servicios</h3>
 <div align="center">
 <a href="https://github.com/flaviot097/pagina_web_mi_empresa" target="_blank"><img src="https://websitesmalaga.com/wp-content/uploads/Wellaggio-diseno-web-valencia-Co%CC%81mo-seducir-a-tus-clientes-con-tu-pa%CC%81gina-web.jpg"></a>
@@ -28,7 +28,7 @@
                                                                                       
 </td>
 
-<td width="50%">
+<td width="">
                <br>
 <h3 align="center">Aplicacion de escritorio</h3>
 <div align="center">                                       
@@ -47,7 +47,7 @@
 <br>
 </td>
 
-<td width="50%">
+<td width="">
                <br>
 <h3 align="center">Pagina Web</h3>
 <div align="center">                                       
