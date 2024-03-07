@@ -14,12 +14,11 @@
 <td width="50%">
 <h3 align="center">Pagina de web servicios</h3>
 <div align="center">
-<a href="https://github.com/flaviot097/pagina_web_mi_empresa" target="_blank"><width="400" alt="Pagina de subscripciones a servicios"></a>
+<a href="https://github.com/flaviot097/pagina_web_mi_empresa" target="_blank"><img src="https://websitesmalaga.com/wp-content/uploads/Wellaggio-diseno-web-valencia-Co%CC%81mo-seducir-a-tus-clientes-con-tu-pa%CC%81gina-web.jpg"></a>
 <p>
 <a href="[Pagina de subscripciones a servicios](https://github.com/flaviot097/pagina_web_mi_empresa)" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Pagina de web subscripciones (mensuales) a servicios .Esta cuenta con fultrado , conexion a base de datos , generacion de facturas (PDF), entre otras funcionalidades.</p>
@@ -31,13 +30,12 @@
                <br>
 <h3 align="center">Aplicacion de escritorio</h3>
 <div align="center">                                       
-<a href="https://github.com/flaviot097/gestor-de-turnos-y-pacientes" target="_blank">< width="400" alt="Aplicacion de escritorio"></a>
+<a href="https://github.com/flaviot097/gestor-de-turnos-y-pacientes" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyubP018X5r9hRO45uWSlI7blE8HDAKQ8yJOFSm4IYJL5Sp5FvDGMPGEs4u8gRVIBU1A&usqp=CAU" width="400" alt="Aplicacion de escritorio"></a>
 <br>
 <p>
 <a href="https://github.com/flaviot097/gestor-de-turnos-y-pacientes" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p>Aplicacion para gestionar pacientes y turnos. Esta, facilita la organizacion ya que cuenta con filtrado de pacientes y su historia cliniac, ademas de filtrado de turnos por mes o año.</p>
@@ -51,7 +49,7 @@
                <br>
 <h3 align="center">Pagina Web</h3>
 <div align="center">                                       
-<a href="https://github.com/flaviot097/p-mayorista" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Pagina web"></a>
+<a href="https://github.com/flaviot097/p-mayorista" target="_blank"><img src="https://websitesmalaga.com/wp-content/uploads/Wellaggio-diseno-web-valencia-Co%CC%81mo-seducir-a-tus-clientes-con-tu-pa%CC%81gina-web.jpg" width="400" alt="Pagina web"></a>
 <br>
 <p>
 <a href="https://github.com/flaviot097/p-mayorista" target="_blank">
