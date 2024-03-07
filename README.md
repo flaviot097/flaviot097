@@ -42,7 +42,7 @@
 </p>
 </p>Aplicacion para gestionar pacientes y turnos. Esta, facilita la organizacion ya que cuenta con filtrado de pacientes y su historia cliniac, ademas de filtrado de turnos por mes o año.</p>
 </div>                                                             
-</table>                                                                                 
+                                                                             
 </div>
 <br>
 </td>
