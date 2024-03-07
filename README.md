@@ -60,8 +60,7 @@
 </p>
 </p>Pagina web pensada para distribuidoras mayoristas. Esta le permite gestionar el stock ,ver metricas de ventas, facturacion , filtrado de productos ,entre otras funcionalidades.</p>
 </div>                                                             
-</table>                                                                                 
-</div>
+                                                                               
 <br>
 
 <table>
