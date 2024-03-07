@@ -3,7 +3,7 @@
 </div>
 <img sec="https://i.pinimg.com/236x/7b/23/95/7b239546b69a9ff73611806dcdbe80f7.jpg">
 <br>
-*## Sobre mi*<br><br>
+## Sobre mi<br><br>
 - 💻 Desarrollador front-end.<br>
 - 🖥Desarrollador Back-end.<br>
 - 👨🏻‍💻 Diseñador web.<br>
