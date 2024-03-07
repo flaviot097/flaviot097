@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center">Pagina de web servicios</h3>
 <div align="center">
-<a href="https://github.com/flaviot097/pagina_web_mi_empresa" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Pagina de subscripciones a servicios"></a>
+<a href="https://github.com/flaviot097/pagina_web_mi_empresa" target="_blank"><width="400" alt="Pagina de subscripciones a servicios"></a>
 <p>
 <a href="[Pagina de subscripciones a servicios](https://github.com/flaviot097/pagina_web_mi_empresa)" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -31,7 +31,7 @@
                <br>
 <h3 align="center">Aplicacion de escritorio</h3>
 <div align="center">                                       
-<a href="https://github.com/flaviot097/gestor-de-turnos-y-pacientes" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Aplicacion de escritorio"></a>
+<a href="https://github.com/flaviot097/gestor-de-turnos-y-pacientes" target="_blank">< width="400" alt="Aplicacion de escritorio"></a>
 <br>
 <p>
 <a href="https://github.com/flaviot097/gestor-de-turnos-y-pacientes" target="_blank">
